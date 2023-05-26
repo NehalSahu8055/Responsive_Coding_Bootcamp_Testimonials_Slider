@@ -218,6 +218,7 @@ body {
     min-height: 19.3rem;
     background-size: 100%, auto;
     margin: auto;
+    margin-bottom:0;
   }
   .review {
     margin-top:2rem;
